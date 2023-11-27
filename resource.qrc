@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>images/toolIcon/addMusic_red.png</file>
+        <file>images/toolIcon/addMusic_white.png</file>
+        <file>images/toolIcon/left_music.png</file>
+        <file>images/toolIcon/left_music_2.png</file>
+        <file>images/toolIcon/listCycle.png</file>
+        <file>images/toolIcon/listOrder.png</file>
+        <file>images/toolIcon/listRandom.png</file>
+        <file>images/toolIcon/music.png</file>
+        <file>images/toolIcon/pause.png</file>
+        <file>images/toolIcon/play.png</file>
+        <file>images/toolIcon/right_music.png</file>
+        <file>images/toolIcon/right_music_2.png</file>
+        <file>images/toolIcon/rubbish_bin.png</file>
+        <file>images/toolIcon/singleCycle.png</file>
+        <file>images/toolIcon/voice_0.png</file>
+        <file>images/toolIcon/voice_1.png</file>
+        <file>images/toolIcon/voice_2.png</file>
+        <file>images/toolIcon/voice_3.png</file>
+        <file>images/toolIcon/minimize.png</file>
+        <file>images/toolIcon/logo.png</file>
+        <file>images/toolIcon/close.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>images/background/bg_1.jpg</file>
+        <file>images/background/music_bg.jpg</file>
+        <file>images/background/win_icon.png</file>
+    </qresource>
+</RCC>

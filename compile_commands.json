@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/project_autogen/mocs_compilation.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/mocs_compilation.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/main.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/main.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/main.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/widget.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/widget.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/widget.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/set_style.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/set_style.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/set_style.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/music_player.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/music_player.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/music_player.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/song.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/song.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/song.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/song_manager.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/song_manager.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/song_manager.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/message_queue.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/message_queue.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/message_queue.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/work.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/work.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/work.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/source/database_manager.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/database_manager.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/source/database_manager.cpp"
+},
+{
+  "directory": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -I/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtCore -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include -isystem /home/smxrfx/Qt/6.6.0/gcc_64/mkspecs/linux-g++ -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtWidgets -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtGui -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtMultimedia -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtNetwork -isystem /home/smxrfx/Qt/6.6.0/gcc_64/include/QtSql -g -fPIC -std=gnu++17 -o CMakeFiles/project.dir/project_autogen/EWIEGA46WW/qrc_resource.cpp.o -c /home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/EWIEGA46WW/qrc_resource.cpp",
+  "file": "/home/smxrfx/TrainClass/LanguageCPP/MusicPlayer/DarkMusicPlayer/build/linux-debug/project_autogen/EWIEGA46WW/qrc_resource.cpp"
+}
+]
