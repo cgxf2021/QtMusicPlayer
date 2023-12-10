@@ -4,7 +4,7 @@
 
 * 平台: Ubuntu22.04
 * 框架: Qt6.6
-* 编译器: CMake, vim
+* 开发工具: CMake, nvim
 * 数据库: sqlite3
 
 ## 功能
